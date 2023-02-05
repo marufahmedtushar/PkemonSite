@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image'
-import Style from '../../frontend/style.css';
+import Style from '../frontend/style.css';
 import { Row, Col } from "reactstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Pokemon() {
