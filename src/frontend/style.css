@@ -1,0 +1,28 @@
+.section1{
+  background-image: url(/asset/Background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+    width: 100%;
+  height: 800px;
+}
+
+.section2 .description img{
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+
+}
+.section1 .pokemon-container .pokemons{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.section1 .pokemon-container .card{
+
+  background:linear-gradient(315deg, transparent 35px, #ffffff 0) bottom right;
+  background-repeat: no-repeat;
+}
+
+
+
+
